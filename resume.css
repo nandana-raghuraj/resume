@@ -1,0 +1,106 @@
+
+nav{
+    display: flex;
+    align-items:end;
+    justify-content: space-between;
+    padding: 20px 600px;
+
+    background-color: rgb(72, 188, 188);
+    height: 100px;
+    background-repeat: no-repeat;
+    
+}
+a{
+    text-decoration: none;
+}
+nav ul{
+   display: flex;
+   margin: 0px;
+   padding: 0px;
+   font-style:italic;
+   font-size:xx-large;
+   
+
+}
+nav li{
+    margin: 0px 20px;
+    list-style: none;
+    
+}
+.a{
+   background-image:URL(https://static.storyweaver.org.in/illustrations/58816/large/3.jpg);
+}
+.b{
+  
+    font-style: italic;
+    font-size: larger;
+    
+}
+.c{
+    text-align: justify;
+    font-style: italic;
+    
+}
+.e{
+    justify-content: space-between;
+    
+}
+.f{
+    
+    border: radius 50px;;
+    display: flex;
+    vertical-align: middle;
+    text-align: center;
+    margin: 100px;
+    
+}
+.combine
+{
+    display: flex;
+    flex: space-around;
+    margin: 10px ;
+}
+.g{
+    text-align: center;
+    color: rgb(29, 7, 78);
+    border-style: dashed;
+    border-color: black;
+    width: 600px;
+    margin:0px 450px;
+    
+}
+#Skills ul{
+    display: flex;
+    justify-content:space-between;
+    list-style: none;
+    margin: 10px;
+   
+}
+.k{
+    
+    list-style: none;
+    text-align: center;
+    font-size: larger;
+}
+.l{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+.m{
+    
+    
+    display: flex;
+    list-style: none;
+    text-align: start;
+    
+    
+    
+}
+.n{
+    text-align: center;
+}
+.o{
+    margin: 0px 700px;
+}
